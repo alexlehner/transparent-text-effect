@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alex Lehner -- Developer & Designer -- @alexjlehner
 
 # THANKS
 
-    <name>
+    Rick Astley
 
 # TECHNOLOGY COLOPHON
 
