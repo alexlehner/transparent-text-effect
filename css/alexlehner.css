@@ -54,10 +54,6 @@ p {
   color: #CCC;
 }
 
-.ua-gecko p {
-  
-}
-
 .ua-webkit p {
   background: url(../img/me.jpg) repeat top center fixed;
   -webkit-background-size: cover;
