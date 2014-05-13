@@ -1,12 +1,3 @@
-.ua-webkit p,
-.ua-webkit h2,
-.ua-webkit h2,
-.ua-webkit ul,
-.ua-webkit ul li:after,
-.ua-webkit ul li:last-child:after {
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
-}
 body {	
 	color: #ffffff;
 	font-family: 'Raleway';
@@ -58,17 +49,23 @@ div.strip span {
 p {
 	font-weight: normal;
 	width: 80%;
-	background: url(../img/me.jpg) repeat top center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
 	margin: 50px auto;	
+  background-color: #FFF;
+  color: #CCC;
 }
 
 .ua-gecko p {
-  background: #FFF;
-  color: #CCC;
+  
+}
+
+.ua-webkit p {
+  background: url(../img/me.jpg) repeat top center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
 }
 
 strong {
