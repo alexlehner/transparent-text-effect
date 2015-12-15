@@ -10,7 +10,7 @@ Remember to setup a safe fallback for non webkit browsers. Happy hacking!
 
 ## License
 
-This code it released under the [MIT License](http://choosealicense.com/licenses/mit/). Which in short means I want you to take, break, and make something with my stuff. Enjoy! A follow or [tweet](http://www.twitter.com.com/alexjlehner) is always appreciated though :)
+This code it released under the [MIT License](http://choosealicense.com/licenses/mit/). Which in short means I want you to take, break, and make something with my stuff. Enjoy! A follow or [tweet](http://www.twitter.com/alexjlehner) is always appreciated though :)
 
 ## Changelog
 
